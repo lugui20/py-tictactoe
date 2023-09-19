@@ -1,0 +1,6 @@
+
+This code was made based on a Lab Exercise of the course Python Essentials 1
+offered by Cisco Network Academy
+
+Link to the course:
+https://skillsforall.com/course/python-essentials-1?courseLang=en-US
